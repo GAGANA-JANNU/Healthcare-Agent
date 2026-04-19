@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+streamlit
+requests
+pandas
+numpy
+langgraph
+langchain
